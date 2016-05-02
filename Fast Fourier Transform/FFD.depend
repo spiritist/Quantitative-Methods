@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1426604295 source:c:\users\public\documents\ffd\nr\dfour1.c
+	<math.h>
+
+1330685103 source:c:\users\public\documents\ffd\nr\nrutil.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+
+1430047847 source:c:\users\public\documents\ffd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"nr/nrutil.h"
+	"nr/nr.h"
+
+1330685158 c:\users\public\documents\ffd\nr\nrutil.h
+
+1427748055 c:\users\public\documents\ffd\nr\nr.h
+	<stdio.h>
+
